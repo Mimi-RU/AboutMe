@@ -2,4 +2,30 @@
     <string name="app_name">About Me</string>
     <string name="anjuman_ara_mimi">Anjuman Ara Mimi</string>
     <string name="todo">TODO</string>
+    <string name="bio_text">
+        Hi I am Anjuman Ara Mimi. \n
+        Id no- 2010076225
+        If you’re anything like me, \n
+        you probably dont think about your professional bio until \n
+        you’re suddenly asked to "shoot one over via email." \n
+        You have approximately one afternoon to come up with it, \n
+        and thats when you scramble, and the bio ends up reading like this: \n
+
+"Rodney Erickson is a content marketing professional at HubSpot \n
+        , an inbound marketing and sales platform that helps companies attract visitors, convert leads, \n
+        and close customers. Previously, Rodney worked as a marketing manager for a tech software startup.  \n
+        He graduated with honors from Columbia University with a dual degree in Business Administration and Creative Writing." \n
+
+        Hi I am Anjuman Ara Mimi.
+        Id no- 2010076225
+        If you’re anything like me,
+        You have approximately one afternoon to come up with it,
+        and thats when you scramble, and the bio ends up reading like this:
+
+"Rodney Erickson is a content marketing professional at HubSpot
+        , an inbound marketing and sales platform that helps companies attract visitors, convert leads,
+        and close customers. Previously, Rodney worked as a marketing manager for a tech software startup.
+        He graduated with honors from Columbia University with a dual degree in Business Administration and Creative Writing."
+
+    </string>
 </resources>
