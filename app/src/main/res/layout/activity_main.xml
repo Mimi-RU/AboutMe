@@ -9,12 +9,19 @@
 
     <TextView
         android:id="@+id/textView"
+        android:text="@string/anjuman_ara_mimi"
+        style="@style/name_style" />
+
+    <EditText
+        android:id="@+id/edit_nickname"
+        style="@style/name_style"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textAlignment="center"
-        android:textSize="30sp"
-        style="@style/NameStyle"
-        android:text="@string/anjuman_ara_mimi" />
+        android:ems="10"
+        android:hint="@string/hint_nickname"
+        android:textColorHint="#78909C"
+        android:importantForAutofill="no"
+        android:inputType="textPersonName" />
 
     <ImageView
         android:id="@+id/imageView"
@@ -40,4 +47,5 @@
             android:text="@string/bio_text"
             tools:ignore="RtlSymmetry" />
     </ScrollView>
+
 </LinearLayout>
