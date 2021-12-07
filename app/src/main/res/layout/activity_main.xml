@@ -23,6 +23,21 @@
         android:importantForAutofill="no"
         android:inputType="textPersonName" />
 
+    <Button
+        android:id="@+id/done_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        style="@style/Button.SeaGreen"
+        android:text="@string/done_button_text" />
+
+    <TextView
+        android:id="@+id/nickname_text"
+        style="@style/name_style"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone" />
+
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="match_parent"

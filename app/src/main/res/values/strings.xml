@@ -29,4 +29,5 @@
 
     </string>
     <string name="hint_nickname">What is your nickname?</string>
+    <string name="done_button_text">done</string>
 </resources>
